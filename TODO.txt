@@ -1,0 +1,12 @@
+Workflow
+***************
+Mechanics --> Assets --> Map
+<--------------------------
+**************************
+
+TO DO:
+Make project
+Camera controls
+Basic character controlls
+Block out simple area
+Update this
